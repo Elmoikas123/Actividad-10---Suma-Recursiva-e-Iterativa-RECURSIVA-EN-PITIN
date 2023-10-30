@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Actividad 10 - Suma Recursiva e Iterativa RECURSIVA EN PITIN", "Actividad 10 - Suma Recursiva e Iterativa RECURSIVA EN PITIN\Actividad 10 - Suma Recursiva e Iterativa RECURSIVA EN PITIN.pyproj", "{3B1177B2-42DE-4846-8A68-6805A85CCE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1177B2-42DE-4846-8A68-6805A85CCE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1177B2-42DE-4846-8A68-6805A85CCE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19723022-4CEB-499F-8D30-D979FEA0F1A8}
+	EndGlobalSection
+EndGlobal
